@@ -1,1 +1,7 @@
 Projeto comessando do zero
+
+comandos git para salvar trabalho:
+
+!- git add *
+2- git commit -m "rótulo do trabalho desenvolvido
+3- git push origin master (manda para o repositorio remoto)
